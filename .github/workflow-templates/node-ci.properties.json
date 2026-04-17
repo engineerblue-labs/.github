@@ -1,0 +1,7 @@
+{
+  "name": "Node CI (EngineerBlue Labs)",
+  "description": "Run the EngineerBlue Labs shared Node CI workflow",
+  "iconName": "nodejs",
+  "categories": ["Node", "Continuous integration"],
+  "filePatterns": ["package.json$"]
+}
